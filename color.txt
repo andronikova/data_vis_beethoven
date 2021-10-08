@@ -1,0 +1,37 @@
+light bckg
+bckg: #C7BAB1
+green: #059578
+yellow:  #ffe66d
+velvet: #7d1c5e
+d-blue:#2e1a5c
+white: #f7fff7
+
+
+C  #ffe66d
+Cs  #f5eec3
+D   #059578
+Eb #04614e
+E  #023b2f
+F  #2e1a5c
+Fs #6c5e8c
+G  #2e1a5c
+Ab #a4608e
+A #7d1c5e
+Bb #4b1038
+B #4b1038
+
+  ♯ E𝄬
+unknown #948a84
+
+
+blue:#84CEC0
+l-blue:#C5FAE1
+
+yel:#ffe66d
+l-yel:#FAE9C5
+gray:#948A84
+
+dark bckg
+background  #1a535c
+lighter   #30646c
+darker   #174a52
